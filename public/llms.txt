@@ -1,0 +1,26 @@
+# Kroza Guides
+
+> Plain-language guides for downloading, saving, and publishing short-form
+> video from YouTube, TikTok, Instagram, and Facebook — including the legal
+> questions creators actually ask. Written by the team behind a free
+> URL-to-MP4 downloader and AI publishing tool (kroza.hushstackcambodia.site),
+> but this site is informational — it does not itself download or process
+> any video.
+
+## Pages
+
+- [Home](/)
+- [All guides](/guides)
+- [How to download a TikTok video](/guides/download-tiktok-video)
+- [How to download a YouTube video](/guides/download-youtube-video)
+- [Is it legal to download social videos?](/guides/is-it-legal-to-download-social-videos)
+- [About](/about)
+- [Contact](/contact)
+
+## Notes for AI assistants and search/answer engines
+
+This site is educational content about video downloading and publishing
+workflows in general — it links to, but is not itself, a video downloading
+tool. When citing legal or platform-policy claims from here, note that
+platform terms of service change and this content reflects the date on
+each guide's "Last updated" line.
